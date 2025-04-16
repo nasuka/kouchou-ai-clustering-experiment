@@ -1,0 +1,3 @@
+[submodule "kouchou-ai"]
+	path = kouchou-ai
+	url = https://github.com/digitaldemocracy2030/kouchou-ai
